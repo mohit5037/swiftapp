@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Mohit on 25/03/20.
-//  Copyright © 2020 Practise. All rights reserved.
+//  Copyright © 2020 Practise. All rights reserved..
 //
 
 import UIKit
